@@ -1,10 +1,10 @@
 Author: Jake Huneau (jakehuneau@yahoo.com)
 
-Rust script for solving (Wordle)[https://www.powerlanguage.co.uk/wordle/].
+Rust script for solving [Wordle](https://www.powerlanguage.co.uk/wordle/).
 
 ## Instructions
 
-To run, you need to (install Rust)[https://www.rust-lang.org/tools/install], then run with `cargo run`.
+To run, you need to [install Rust](https://www.rust-lang.org/tools/install), then run with `cargo run`.
 
 Once run, script will give you a word to try. After trying, you will need to tell say which letters are correct. Incorrect letters are types as ".", letters that are correct but in the wrong place are typed lowercase, and correct letters in the correct location are given in uppercase.
 
