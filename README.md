@@ -16,3 +16,8 @@ The program first reads all 5-letter English words. It then determines the best 
 
 ### Scoring
 A word is scored based primarily on letter frequency. A letter frequency table is built for each set of candidate words by finding how frequent each letter appears at each place in the words. A word is then given points based on that frequency table. Duplicate letters are a word are penalized by being given less points for the duplicates.
+
+
+## Testing
+
+Currently, it correctly guesses a word in 4.7 tries and is correct within 6 tries 89% of the time. The most difficult word is EALES with it taking 14 tries.
