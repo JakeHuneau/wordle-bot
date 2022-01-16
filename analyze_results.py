@@ -6,7 +6,7 @@ if __name__ == '__main__':
     word_count = 0
     total_guesses = 0
     words_within_6 = 0
-    for line in open('test_results/result_bonus_vowels.txt', 'r').readlines():
+    for line in open('test_results/result_smaller_words.txt', 'r').readlines():
         try:
             word, num = line.split()
             word = word.strip('"')
