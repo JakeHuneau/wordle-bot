@@ -20,4 +20,4 @@ A word is scored based primarily on letter frequency. A letter frequency table i
 
 ## Testing
 
-Currently, it correctly guesses a word in 4.7 tries and is correct within 6 tries 89% of the time. The most difficult word is EALES with it taking 14 tries.
+Currently, it correctly guesses a word on average in 3.6 tries and is correct within 6 tries 99.1% of the time.
